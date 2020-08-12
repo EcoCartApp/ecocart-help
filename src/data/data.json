@@ -1,0 +1,49 @@
+{
+	"category" : [
+		{
+			"Name": "Getting Started"			
+		},
+		{
+			"Name": "Account Questions"			
+		},
+		{
+			"Name": "Why Carbon Offsets"			
+		},
+		{
+			"Name": "EcoPoints"			
+		},
+		{
+			"Name": "About Ecocart"			
+		},
+		{
+			"Name": "Privacy"			
+		}
+	
+	
+	],
+	"FAQ" : [
+		{
+			"id": 1,
+			"question": "How to use the EcoCart browser extension",
+			"answer":	"Answer How to use the EcoCart browser extension"	
+				
+		},
+		{
+			"id": 2,
+			"question": "Free carbon neutral orders? Sounds too good to be true",
+			"answer": "Answer Free carbon neutral orders? Sounds too good to be true"		
+		},
+		{
+			"id": 3,
+			"question": "What on Earth is a carbon offset?",
+			"answer": "Answer What on Earth is a carbon offset?"		
+		},
+		{
+			"id": 4,
+			"question": "How can I find stores that support sustainable shopping?",
+			"answer": "Answer How can I find stores that support sustainable shopping?"	
+		}
+	]
+
+
+}

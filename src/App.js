@@ -1,26 +1,30 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { Component } from 'react';
 import './App.css';
+import Search from './components/search';
+import Category from './components/category';
+import FrequentQA from './components/frequentQA';
+import Routes from './Routes';
+import { Router, Switch,Route } from 'react-router-dom';
+import history from './history';
+
 
 function App() {
+  
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+          <div>
+          <Search/>
+          </div>
+          <Category/>
+          <div style={{marginLeft: '1.5rem'}}>
+          <FrequentQA/>
+          </div>
+      
+     
     </div>
+    
   );
+  
 }
 
 export default App;

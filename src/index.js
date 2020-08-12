@@ -3,11 +3,18 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import 'semantic-ui-css/semantic.min.css';
+import {Router} from 'react-router-dom';
+import Routes from './Routes';
+import history from './history';
+
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <Router history={history}>
+  <Routes/>
+  </Router>
+  ,
+    
   document.getElementById('root')
 );
 
