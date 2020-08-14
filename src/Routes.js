@@ -11,7 +11,7 @@ export default class Routes extends Component {
         return (
                 <Switch>
                     <Route exact path='/' component={App} />
-                    
+                    <Route exact path='/ecocart-help' component={App} />
                     <Route path='/category/:id' component={CategoryMain} />
                     
                     
