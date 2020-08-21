@@ -61,7 +61,7 @@ const config = {
 class frequentQA extends Component {
     render() {
         return (
-            <div style={{padding: 100, paddingTop: 20}}>
+            <div style={{padding:5, paddingTop: 20,paddingRight:20}}>
                 <h3 style={{color:"#0D3C2A", fontFamily: "Montserrat"}}>Frequently asked questions: </h3>
                 <Faq data={data} styles={styles} config={config} />
             </div>

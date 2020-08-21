@@ -1,8 +1,10 @@
 import React, {Component} from 'react';
+
 import CATEGORIES from "../data/categories";
 import { useHistory } from "react-router-dom";
 import history from './../history';
 import '../index.css';
+
 
 class EachCategory extends Component{
     
@@ -10,7 +12,7 @@ class EachCategory extends Component{
         const {image, name}= this.props.category;
         
     return(
-        <div className="categoryBoxes" style = {{ display: 'inline-block', marginBottom:20, marginLeft:20}}>
+        <div className="categoryBoxes" style = {{ display: 'inline-block', marginBottom:20, marginRight:20}}>
             <img className="imagedropshadow" src={image} onClick={() => history.push(`/category/${name}`)} alt='category' style={{width: 330, height: 330,cursor: 'pointer', }}/>
 
         </div>
@@ -23,8 +25,8 @@ class Category extends Component{
        
             return(
                 <div>
-                   <h3 style={{marginLeft: 124, marginBottom: 0, color:"#0D3C2A", fontFamily: "Montserrat"}}>Choose a category:</h3>
-                   <div style={{margin: 10, textAlign: 'center'}}>
+                   <h3 style={{margin: 30, color:"#0D3C2A", fontFamily: "Montserrat"}}>Choose a category:</h3>
+                   <div style={{display: 'block', textAlign: 'center'}}>
                        {
                            CATEGORIES.map(CATEGORY => {
                                return (
@@ -34,7 +36,7 @@ class Category extends Component{
                        }
                    </div>
 
-                </div>    
+                   </div>  
             )
         }
 }

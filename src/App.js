@@ -6,22 +6,27 @@ import FrequentQA from './components/frequentQA';
 import Routes from './Routes';
 import { Router, Switch,Route } from 'react-router-dom';
 import history from './history';
-
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Container from "react-bootstrap/Container";
+import { Row } from 'react-bootstrap';
 
 function App() {
   
   return (
-    <div>
-          <div>
+      <div>
           <Search/>
-          </div>
+          
+
+<Container fluid="md">
+          <Row>
           <Category/>
-          <div style={{marginLeft: '1.5rem'}}>
+          </Row>         
+           <Row style={{marginLeft: '1.5rem'}}>
           <FrequentQA/>
-          </div>
+          </Row>
       
      
-    </div>
+    </Container></div>
     
   );
   
