@@ -63,7 +63,7 @@ const { activeItem } = this.state
         <div >           
             <form>
                
-                <input type="text" placeholder="Search.." styles={{margin:30}}/>
+                <input type="text" placeholder="Search.." style={{borderColor:"#C0C0C0", width: "200px", height: "50px", fontSize: "15px"}}/>
 
             </form>
           

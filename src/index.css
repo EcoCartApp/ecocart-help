@@ -114,9 +114,7 @@ aside {
 }
 
 .questions{
-  padding-top: 20px;
-  border: 1px solid rgb(156, 155, 155);
-  box-shadow: 5px 10px #888888;
+  padding-top: 20px;  
 }
 
 .searchComponent{
