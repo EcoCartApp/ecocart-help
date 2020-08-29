@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3e52fb331d43f8622f20e21685d74033",
+    "revision": "0e1d29035045289afd22a979faf92ac5",
     "url": "/ecocart-help/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ecocart-help/static/css/2.b7af6899.chunk.css"
   },
   {
-    "revision": "2d1a82597d64f7b425b3",
-    "url": "/ecocart-help/static/css/main.a6b19e60.chunk.css"
+    "revision": "e88f2509619b25a71379",
+    "url": "/ecocart-help/static/css/main.00e7f0ce.chunk.css"
   },
   {
     "revision": "2598dbfffd722ef492e0",
@@ -20,24 +20,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ecocart-help/static/js/2.a4083f57.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2d1a82597d64f7b425b3",
-    "url": "/ecocart-help/static/js/main.2cc393bd.chunk.js"
+    "revision": "e88f2509619b25a71379",
+    "url": "/ecocart-help/static/js/main.2c7d2a3c.chunk.js"
   },
   {
     "revision": "9e0acfb8ac69b4ef1a3e",
     "url": "/ecocart-help/static/js/runtime-main.8c7a35f3.js"
   },
   {
-    "revision": "d7e52a3104e77345fdb60b95dc3e07c9",
-    "url": "/ecocart-help/static/media/aboutEcocart.d7e52a31.png"
+    "revision": "dd853151020690db95f15de0e340dc92",
+    "url": "/ecocart-help/static/media/aboutEcocart.dd853151.png"
   },
   {
     "revision": "f62668f75ab050f6004fb1407ca40613",
     "url": "/ecocart-help/static/media/accountQuestions.f62668f7.png"
   },
   {
-    "revision": "5ab0553af7f5e3cc3ef88a3b9ad1d738",
-    "url": "/ecocart-help/static/media/backgroundImage.5ab0553a.png"
+    "revision": "96f02581e770e6c1021e739eca59a4f8",
+    "url": "/ecocart-help/static/media/bannerpic.96f02581.png"
   },
   {
     "revision": "13db00b7a34fee4d819ab7f9838cc428",

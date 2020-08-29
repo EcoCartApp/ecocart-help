@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ecocart-help/static/css/main.a6b19e60.chunk.css",
-    "main.js": "/ecocart-help/static/js/main.2cc393bd.chunk.js",
-    "main.js.map": "/ecocart-help/static/js/main.2cc393bd.chunk.js.map",
+    "main.css": "/ecocart-help/static/css/main.00e7f0ce.chunk.css",
+    "main.js": "/ecocart-help/static/js/main.2c7d2a3c.chunk.js",
+    "main.js.map": "/ecocart-help/static/js/main.2c7d2a3c.chunk.js.map",
     "runtime-main.js": "/ecocart-help/static/js/runtime-main.8c7a35f3.js",
     "runtime-main.js.map": "/ecocart-help/static/js/runtime-main.8c7a35f3.js.map",
     "static/css/2.b7af6899.chunk.css": "/ecocart-help/static/css/2.b7af6899.chunk.css",
     "static/js/2.a4083f57.chunk.js": "/ecocart-help/static/js/2.a4083f57.chunk.js",
     "static/js/2.a4083f57.chunk.js.map": "/ecocart-help/static/js/2.a4083f57.chunk.js.map",
     "index.html": "/ecocart-help/index.html",
-    "precache-manifest.91ed0391da95209df1d02bf9e919b572.js": "/ecocart-help/precache-manifest.91ed0391da95209df1d02bf9e919b572.js",
+    "precache-manifest.1377fb87bafdf43c6395de8b59cf72eb.js": "/ecocart-help/precache-manifest.1377fb87bafdf43c6395de8b59cf72eb.js",
     "service-worker.js": "/ecocart-help/service-worker.js",
     "static/css/2.b7af6899.chunk.css.map": "/ecocart-help/static/css/2.b7af6899.chunk.css.map",
-    "static/css/main.a6b19e60.chunk.css.map": "/ecocart-help/static/css/main.a6b19e60.chunk.css.map",
+    "static/css/main.00e7f0ce.chunk.css.map": "/ecocart-help/static/css/main.00e7f0ce.chunk.css.map",
     "static/js/2.a4083f57.chunk.js.LICENSE.txt": "/ecocart-help/static/js/2.a4083f57.chunk.js.LICENSE.txt",
-    "static/media/aboutEcocart.png": "/ecocart-help/static/media/aboutEcocart.d7e52a31.png",
+    "static/media/aboutEcocart.png": "/ecocart-help/static/media/aboutEcocart.dd853151.png",
     "static/media/accountQuestions.png": "/ecocart-help/static/media/accountQuestions.f62668f7.png",
-    "static/media/backgroundImage.png": "/ecocart-help/static/media/backgroundImage.5ab0553a.png",
+    "static/media/bannerpic.png": "/ecocart-help/static/media/bannerpic.96f02581.png",
     "static/media/semantic.min.css": "/ecocart-help/static/media/outline-icons.ef60a4f6.woff",
     "static/media/carbonOffsets.png": "/ecocart-help/static/media/carbonOffsets.7db566b8.png",
     "static/media/ecopoints.png": "/ecocart-help/static/media/ecopoints.163e298c.png",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.8c7a35f3.js",
     "static/css/2.b7af6899.chunk.css",
     "static/js/2.a4083f57.chunk.js",
-    "static/css/main.a6b19e60.chunk.css",
-    "static/js/main.2cc393bd.chunk.js"
+    "static/css/main.00e7f0ce.chunk.css",
+    "static/js/main.2c7d2a3c.chunk.js"
   ]
 }
